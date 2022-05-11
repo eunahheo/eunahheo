@@ -1,12 +1,13 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=34558b&height=300&section=header&text=Welcome%20%&fontSize=90&desc=Eunah's%20Github%20Profile&fontColor=F6F6F6&descSize=20&descAlign=50&descAlignY=62)
 
-![eunah's github stats](https://github-readme-stats.vercel.app/api?username=eunahheo&show_icons=true)
+![eunah's github stats](https://github-readme-stats.vercel.app/api?username=eunahheo&show_icons=true)[![Solved.ac
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=sdi1358)](https://solved.ac/sdi1358)
+
+
 
 <!--
 **eunahheo/eunahheo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=sdi1358)](https://solved.ac/sdi1358)
 
 Here are some ideas to get you started:
 
